@@ -21,3 +21,11 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# for wordpress 5+
+**composer.phar
+**/vendor/
+wp-content/plugins/akismet
+wp-content/themes/twentynineteen*/
+wp-content/themes/twentyseventeen*/
+wp-content/themes/twentytwenty*/

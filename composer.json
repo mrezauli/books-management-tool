@@ -1,0 +1,12 @@
+{
+    "name": "shironamheen/books-management-tool",
+    "authors": [
+        {
+            "name": "MD. Rezaul Islam",
+            "email": "rezaul.cse.mbstu@gmail.com"
+        }
+    ],
+    "require": {
+        "tareq1988/wp-eloquent": "dev-master"
+    }
+}
